@@ -1,0 +1,15 @@
+.content {
+  margin: 2%;
+  background-color: white;
+  color: red;
+  width: 13%;
+  height: 30%;
+  border-radius: 10px;
+  border: 1px groove #efe;
+  padding: 3px;
+  display: inline-block;
+}
+
+.content div:first-child p:first-child {
+  font-size: 20px;
+}
