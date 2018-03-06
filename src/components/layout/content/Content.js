@@ -21,7 +21,6 @@ class Content extends React.Component {
     }
     return x;
   }
-} // This is possible because code inside loop gets pushed to array 'x' as return of function React.createComponent... JSX stuff
-  // Then it gets taken care of by React to render it through iteration, simple as that
+}
 
 export default Content;
